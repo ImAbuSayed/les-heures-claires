@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-heures-claires/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Les Heures Claires](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-heures-claires/) |
+| **Get License** | [License this song: Les Heures Claires](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-heures-claires/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> J'ai le cœur qui s'emballe sous la boule à facettes
+> Ton parfum dans la nuit, baby, tu me rends bête
+> Approche-toi de moi, let's get lost in the vibe
+> Rien ne peut m'arrêter pour cette sensual ride
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

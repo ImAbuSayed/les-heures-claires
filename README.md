@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-heures-claires/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Les Heures Claires](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-heures-claires/) |
+| **Get License** | [Official Music Licensing for Les Heures Claires](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-heures-claires/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b15c3bbc851fb76b8689150a1017b4cb3ccd89b08aa33c1b562b728725154852` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
